@@ -1,0 +1,6 @@
+drive/
+.ipynb_checkpoints/
+__pycache__/
+*.pycmodel.keras
+model.keras
+.config
